@@ -1,0 +1,10 @@
+11.10.2023 -> Hello!
+11.10.2023 -> Hello, my name is Yasha!
+11.10.2023 -> exit
+11.10.2023 -> EXIT
+11.10.2023 -> exit
+11.10.2023 -> exit
+11.10.2023 -> EXIT
+11.10.2023 -> exit
+11.10.2023 -> Hello World!
+11.10.2023 -> Hello from Java!
